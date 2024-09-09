@@ -1,4 +1,7 @@
 # Capstone-Modul-II
+
+Link download tablue : https://drive.google.com/drive/folders/1xhr4I9ob-1Sjy1SfDxlEOX4Tz-vQ5jS5
+
 Dibuat untuk memenuhi Capstone Modul II 
 Data Transjakarta
 Dataset ini berisi data Transjakarta di bulan April 2023. Setelah melihat dan memahami informasi dari dataset ini, saya menemukan informasi apa saja yang saya miliki yang dilihat dari kolom yang ada, dataset ini memiliki 22 kolom yang berisikan informasi, antara lain:
