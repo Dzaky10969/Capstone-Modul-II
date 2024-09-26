@@ -1,32 +1,32 @@
-# Capstone-Modul-II
+# Capstone-Module-II
 
-Link download tablue : https://drive.google.com/drive/folders/1xhr4I9ob-1Sjy1SfDxlEOX4Tz-vQ5jS5
+Tablue download link: https://drive.google.com/drive/folders/1xhr4I9ob-1Sjy1SfDxlEOX4Tz-vQ5jS5
 
-Dibuat untuk memenuhi Capstone Modul II 
-Data Transjakarta
-Dataset ini berisi data Transjakarta di bulan April 2023. Setelah melihat dan memahami informasi dari dataset ini, saya menemukan informasi apa saja yang saya miliki yang dilihat dari kolom yang ada, dataset ini memiliki 22 kolom yang berisikan informasi, antara lain:
+Created to fulfil Capstone Module II 
+Transjakarta data
+This dataset contains Transjakarta data in April 2023. After seeing and understanding the information from this dataset, I found out what information I have which is seen from the existing columns, this dataset has 22 columns that contain information, including:
 
-1. transID: ID unik untuk setiap transaksi perjalanan.
-2. payCardID: ID unik dari kartu pembayaran yang digunakan oleh penumpang.
-3. payCardBank: Nama bank yang mengeluarkan kartu pembayaran.
-4. payCardName: Nama pemilik kartu pembayaran.
-5. payCardSex: Jenis kelamin pemilik kartu pembayaran (M = Male, F = Female).
-6. payCardBirthDate: Tahun kelahiran pemilik kartu pembayaran.
-7. corridorID: ID koridor Transjakarta yang dilalui dalam perjalanan.
-8. corridorName: Nama koridor Transjakarta yang dilalui dalam perjalanan.
-9. direction: Arah perjalanan (0 = arah pertama, 1 = arah sebaliknya).
-10. tapInStops: ID unik dari halte tempat penumpang melakukan tap-in (memulai perjalanan).
-11. tapInStopsName: Nama halte tempat penumpang melakukan tap-in.
-12. tapInStopsLat: Koordinat garis lintang (latitude) dari halte tap-in.
-13. tapInStopsLon: Koordinat garis bujur (longitude) dari halte tap-in.
-14. stopStartSeq: Urutan halte tempat penumpang memulai perjalanan pada rute tersebut.
-15. tapInTime: Waktu ketika penumpang melakukan tap-in.
-16. tapOutStops: ID unik dari halte tempat penumpang melakukan tap-out (mengakhiri perjalanan).
-17. tapOutStopsName: Nama halte tempat penumpang melakukan tap-out.
-18. tapOutStopsLat: Koordinat garis lintang (latitude) dari halte tap-out.
-19. tapOutStopsLon: Koordinat garis bujur (longitude) dari halte tap-out.
-20. stopEndSeq: Urutan halte tempat penumpang mengakhiri perjalanan pada rute tersebut.
-21. tapOutTime: Waktu ketika penumpang melakukan tap-out.
-22. payAmount: Jumlah pembayaran (tarif) yang dikenakan kepada penumpang untuk perjalanan tersebut.
+1. transID: A unique ID for each travel transaction.
+2. payCardID: The unique ID of the payment card used by the passenger.
+3. payCardBank: The name of the bank that issued the payment card.
+4. payCardName: The name of the owner of the payment card.
+5. payCardSex: The gender of the payment card owner (M = Male, F = Female).
+6. payCardBirthDate: The year of birth of the payment card holder.
+7. corridorID: The ID of the Transjakarta corridor travelled in.
+8. corridorName: The name of the Transjakarta corridor travelled on the journey.
+9. direction: The direction of travel (0 = first direction, 1 = reverse direction).
+10. tapInStops: The unique ID of the stops where passengers tap-in.
+11. tapInStopsName: The name of the stop where the passenger tapped-in.
+12. tapInStopsLat: The latitude coordinate of the tap-in stop.
+13. tapInStopsLon: The longitude coordinate of the tap-in stop.
+14. stopStartSeq: The sequence of stops where passengers start travelling on the route.
+15. tapInTime: The time when the passenger tapped-in.
+16. tapOutStops: The unique ID of the stop where the passenger tapped-out.
+17. tapOutStopsName: The name of the stop where the passenger tapped out.
+18. tapOutStopsLat: The latitude coordinate of the tap-out stop.
+19. tapOutStopsLon: The longitude coordinate of the tap-out stop.
+20. stopEndSeq: The sequence of stops where the passenger ends the journey on the route.
+21. tapOutTime: The time when the passenger tapped out.
+22. payAmount: The amount of payment (fare) charged to the passenger for the journey.
 
-Kolom-kolom ini mencakup informasi yang memungkinkan analisis perilaku perjalanan, preferensi pembayaran, dan efisiensi operasional layanan Transjakarta.
+These columns include information that enables analysis of travel behaviour, payment preferences, and operational efficiency of Transjakarta services.
